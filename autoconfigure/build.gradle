@@ -1,0 +1,8 @@
+plugins {
+    id 'java-library'
+}
+
+dependencies {
+    api project(":plugin")
+    compileOnly 'org.mybatis.spring.boot:mybatis-spring-boot-starter:2.1.3'
+}

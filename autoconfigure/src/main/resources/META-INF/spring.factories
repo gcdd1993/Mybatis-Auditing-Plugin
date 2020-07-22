@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+io.github.gcdd1993.mybatis.plugins.auditing.autoconfigure.MybatisAuditingPluginAutoConfiguration

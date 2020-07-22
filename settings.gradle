@@ -1,0 +1,4 @@
+rootProject.name = 'Mybatis-Auditing-Plugin'
+include 'plugin'
+include 'autoconfigure'
+include 'sample'
